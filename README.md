@@ -8,12 +8,12 @@
 - `Processed Dataset`: hotel_bookings_v1
   
 # Tools
-- Jupyter Notebook
-- PyCaret: Python package for AutoML
+- `Jupyter Notebook`
+- `PyCaret`: Python package for AutoML
 
 # Notebook
-- `01 - Data Processing.ipynb`
-- `02 - Exploratory Data Analysis (EDA).ipynb`
-- `03 - Unsupervised Learning - Clustering -  K-means.ipynb`
-- `04 - Supervised Learning - Classifier - LightGBM.ipynb`
-- `05 - Supervised Learning - Regressor - Random Forest.ipynb`
+- 01 - Data Processing.ipynb
+- 02 - Exploratory Data Analysis (EDA).ipynb
+- 03 - Unsupervised Learning - Clustering -  K-means.ipynb
+- 04 - Supervised Learning - Classifier - LightGBM.ipynb
+- 05 - Supervised Learning - Regressor - Random Forest.ipynb
