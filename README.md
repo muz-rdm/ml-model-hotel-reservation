@@ -10,7 +10,7 @@
   
 # Tools
 - `Jupyter Notebook`
-- `PyCaret`: Python package for AutoML, install using `pip install`
+- `PyCaret`: Python package for AutoML, install using `pip install`. Read about PyCaret [here](https://pycaret.org/)
 
 # Notebook
 - 01 - Data Processing.ipynb
