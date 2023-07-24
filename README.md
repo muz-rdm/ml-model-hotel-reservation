@@ -18,3 +18,4 @@
 - 03 - Unsupervised Learning - Clustering -  K-means.ipynb
 - 04 - Supervised Learning - Classifier - LightGBM.ipynb
 - 05 - Supervised Learning - Regressor - Random Forest.ipynb
+- Notebook can be downloaded from [here](https://drive.google.com/file/d/1iYhhXLOnzD9o7c24VmPvTKX7WZl3mJHe/view?usp=drive_link)
