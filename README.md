@@ -1,6 +1,6 @@
 # Objective
 - Develop Machine Learning models using hotel reservation dataset.
-- -Hotel booking demand analysis & cancelation prediction.
+- Hotel booking demand analysis & cancelation prediction.
 - To demonstrate the usage of AutoML library to develop the "first-glimpse" model using PyCaret.
 
 # Dataset
