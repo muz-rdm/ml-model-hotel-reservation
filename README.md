@@ -11,7 +11,7 @@
 # Tools
 - `Jupyter Notebook`
 - `PyCaret`: Python package for AutoML, install using `pip install`. Read about PyCaret [here](https://pycaret.org/)
-- ML model: K-means clustering, LightGBM classifier, Random Forest regressor
+- `ML model`: K-means clustering, LightGBM classifier, Random Forest regressor
 
 # Notebook
 - 01 - Data Processing.ipynb
